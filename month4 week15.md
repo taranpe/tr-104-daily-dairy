@@ -1,12 +1,15 @@
-Week 14: API Security and Encryption
+Week 15: User Feedback and Enhancements
 
 
 
-•	Day 92-94: Implemented rate limiting and security headers using helmet for the Express server.
 
-
-•	Day 95-97: Added password hashing with bcrypt and enhanced security protocols.
+•	Day 101-103: Gathered feedback from users and team members to improve features.
 
 
 
-•	Day 98-100: Secured JWT authentication with refresh tokens and token expiry mechanisms.
+•	Day 104-106: Implemented feature requests such as user activity tracking, improved UI design, and new search filters.
+
+
+
+
+•	Day 107-109: Refined backend and frontend performance based on user feedback.
